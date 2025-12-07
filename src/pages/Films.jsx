@@ -76,7 +76,7 @@ function Films() {
         <div className="rounded-2xl overflow-hidden border border-white/10 bg-black/40 mb-8">
           <iframe
             className="w-full aspect-video"
-            src="https://youtu.be/Sl3fIXH0qpQ?si=7SUe-S0CQN8SL9sp"
+            src="https://www.youtube.com/embed/Sl3fIXH0qpQ"
             title="YouTube Showreel"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
